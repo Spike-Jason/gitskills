@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.11111
 Creating a new branch is quick AND simpl
 >>>>>>> feature1
 new branch 'dev'
+git is a free software
